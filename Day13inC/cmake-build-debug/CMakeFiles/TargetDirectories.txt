@@ -1,0 +1,3 @@
+D:/Projects/AdventOfCode2021/Day13inC/cmake-build-debug/CMakeFiles/Day13inC.dir
+D:/Projects/AdventOfCode2021/Day13inC/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Projects/AdventOfCode2021/Day13inC/cmake-build-debug/CMakeFiles/rebuild_cache.dir
